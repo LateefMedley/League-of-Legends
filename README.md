@@ -2,7 +2,14 @@
 
 League of Legends is a MOBA (multiplayer online battle arena) where 2 teams (blue and red) face off. There are 3 lanes, a jungle, and 5 roles. The goal is to take down the enemy Nexus to win the game.
 
-### Content 
+### Content - Files
+
+CSV of features Used for Models
+
+ipynb including 2 models and a brief comparison
+
+
+### Content - Data
 
 This dataset contains the first 10min. stats of approx. 10k ranked games (SOLO QUEUE) from a high ELO (DIAMOND I to MASTER). Players have roughly the same level.
 
